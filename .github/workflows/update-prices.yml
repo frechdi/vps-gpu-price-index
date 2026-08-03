@@ -1,0 +1,56 @@
+name: Update price index
+
+# Rebuilds data/prices.json + data/prices.csv from the public vendor APIs.
+# Uses no secrets: every endpoint is public and unauthenticated, and the only
+# token involved is the auto-provided GITHUB_TOKEN used to push the commit.
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # Mondays 04:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild index
+        run: python3 scripts/build.py
+
+      - name: Fail if the index came out empty
+        run: |
+          count=$(python3 -c "import json;print(json.load(open('data/prices.json'))['record_count'])")
+          echo "record_count=$count"
+          if [ "$count" -lt 20 ]; then
+            echo "::error::Only $count records — refusing to commit a truncated index."
+            exit 1
+          fi
+
+      - name: Report any source that failed
+        run: |
+          python3 - <<'PY'
+          import json
+          failed = json.load(open("data/prices.json"))["failed_sources"]
+          for f in failed:
+              print(f"::warning::source failed: {f}")
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/; then
+            echo "No price changes."
+            exit 0
+          fi
+          git add data/
+          git commit -m "data: refresh price index ($(date -u +%Y-%m-%d))"
+          git push

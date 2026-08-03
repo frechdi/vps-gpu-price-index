@@ -1,0 +1,41 @@
+# ---- secrets: never commit ----
+.env
+.env.*
+!.env.example
+*.env
+secrets.*
+credentials.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+id_rsa*
+id_ed25519*
+*.ppk
+.netrc
+.npmrc
+.pypirc
+service-account*.json
+*serviceaccount*.json
+gcp-*.json
+aws-credentials*
+.aws/
+.ssh/
+*token*.json
+*secret*.json
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+
+# ---- os / editor ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

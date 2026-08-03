@@ -1,0 +1,33 @@
+{
+  "provider": "hetzner",
+  "provider_name": "Hetzner Cloud",
+  "collection": "manual",
+  "reason_manual": "Hetzner publishes no public pricing API, and hetzner.com/cloud renders its price table client-side, so an HTTP fetch returns no figures. These rows are transcribed by hand from the primary source below and re-checked on each verified_date.",
+  "source_url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/",
+  "verified_date": "2026-08-03",
+  "currency": "EUR",
+  "vat_included": false,
+  "vat_note": "The source page states verbatim that all prices exclude VAT.",
+  "region": "DE/FI (Falkenstein, Nuremberg, Helsinki)",
+  "effective_from": "2026-06-15",
+  "notes": [
+    "Effective 15 June 2026 Hetzner both raised prices and rotated plan generations.",
+    "CX Gen2 (CX22/CX32/CX42) and CPX Gen1 (CPX11-CPX51) are deprecated and can no longer be created in the Cloud Console. CPX Gen1 survives only in the USA (ASH/HIL) price table, which is not covered here.",
+    "Existing servers keep their previous price until they are rescaled.",
+    "The often-repeated '+30%' summary only holds for CX and CAX. CPX and CCX more than doubled in DE/FI.",
+    "CPX12 is deliberately absent: it does not appear in the price-adjustment table, and that table lists only products whose price changed, so its absence is not evidence of a figure. No price is published here rather than guessing one."
+  ],
+  "plans": [
+    { "plan": "CX23",  "vcpu": 2,  "ram_gb": 4,  "disk_gb": 40,  "arch": "x86", "price_monthly": 5.49 },
+    { "plan": "CX33",  "vcpu": 4,  "ram_gb": 8,  "disk_gb": 80,  "arch": "x86", "price_monthly": 8.49 },
+    { "plan": "CX43",  "vcpu": 8,  "ram_gb": 16, "disk_gb": 160, "arch": "x86", "price_monthly": 15.99 },
+    { "plan": "CX53",  "vcpu": 16, "ram_gb": 32, "disk_gb": 320, "arch": "x86", "price_monthly": 29.49 },
+    { "plan": "CPX22", "vcpu": 2,  "ram_gb": 4,  "disk_gb": 80,  "arch": "x86", "price_monthly": 19.49 },
+    { "plan": "CPX32", "vcpu": 4,  "ram_gb": 8,  "disk_gb": 160, "arch": "x86", "price_monthly": 35.49 },
+    { "plan": "CCX13", "vcpu": 2,  "ram_gb": 8,  "disk_gb": 80,  "arch": "x86", "price_monthly": 42.99 },
+    { "plan": "CCX23", "vcpu": 4,  "ram_gb": 16, "disk_gb": 160, "arch": "x86", "price_monthly": 85.99 },
+    { "plan": "CCX33", "vcpu": 8,  "ram_gb": 32, "disk_gb": 240, "arch": "x86", "price_monthly": 138.49 },
+    { "plan": "CAX11", "vcpu": 2,  "ram_gb": 4,  "disk_gb": 40,  "arch": "arm64", "price_monthly": 5.99 },
+    { "plan": "CAX21", "vcpu": 4,  "ram_gb": 8,  "disk_gb": 80,  "arch": "arm64", "price_monthly": 10.49 }
+  ]
+}
