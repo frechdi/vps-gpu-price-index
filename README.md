@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="VPS &amp; GPU Price Index — open, source-cited pricing data for Hetzner, Vultr and Linode" width="100%">
+  <img src="assets/hero.png" alt="VPS &amp; GPU Price Index — open, source-cited pricing data for Hetzner, Vultr and Linode" width="100%">
 </p>
 
 # VPS & GPU Price Index
@@ -113,3 +113,7 @@ Quote the row's own `verified_date` rather than the date you read it, and the da
 ## License
 
 [CC0 1.0 Universal](LICENSE) — public domain dedication. Use it commercially, republish it, no attribution required. A link back is welcome but not a condition.
+
+---
+
+<sub>Header illustration generated with GPT Image 2. The bar scale in it is decorative — the real figures live in <a href="data/prices.json"><code>data/prices.json</code></a>.</sub>
