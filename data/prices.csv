@@ -10,198 +10,198 @@ hetzner,CPX32,Hetzner Cloud,4,8,160,x86,,35.49,,EUR,False,"DE/FI (Falkenstein, N
 hetzner,CCX13,Hetzner Cloud,2,8,80,x86,,42.99,,EUR,False,"DE/FI (Falkenstein, Nuremberg, Helsinki)",manual,https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/,2026-08-03
 hetzner,CCX23,Hetzner Cloud,4,16,160,x86,,85.99,,EUR,False,"DE/FI (Falkenstein, Nuremberg, Helsinki)",manual,https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/,2026-08-03
 hetzner,CCX33,Hetzner Cloud,8,32,240,x86,,138.49,,EUR,False,"DE/FI (Falkenstein, Nuremberg, Helsinki)",manual,https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/,2026-08-03
-linode,g6-nanode-1,Nanode 1GB,1,1.0,25.0,x86,,5.0,0.0075,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-standard-1,Linode 2GB,1,2.0,50.0,x86,,12.0,0.018,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-standard-2,Linode 4GB,2,4.0,80.0,x86,,24.0,0.036,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-dedicated-2,Dedicated 4GB,2,4.0,80.0,x86,,36.0,0.054,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-premium-2,Premium 4GB,2,4.0,80.0,x86,,43.0,0.0645,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-dedicated-4-2,G7 Dedicated 4x2,2,4.0,80.0,x86,,43.0,0.0645,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-standard-4,Linode 8GB,4,8.0,160.0,x86,,48.0,0.072,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-highmem-1,Linode 24GB,2,24.0,20.0,x86,,60.0,0.09,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-dedicated-4,Dedicated 8GB,4,8.0,160.0,x86,,72.0,0.108,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-premium-4,Premium 8GB,4,8.0,160.0,x86,,86.0,0.129,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-dedicated-8-4,G7 Dedicated 8x4,4,8.0,160.0,x86,,86.0,0.129,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-standard-6,Linode 16GB,6,16.0,320.0,x86,,96.0,0.144,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-highmem-2,Linode 48GB,2,48.0,40.0,x86,,120.0,0.18,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-dedicated-8,Dedicated 16GB,8,16.0,320.0,x86,,144.0,0.216,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-premium-8,Premium 16GB,8,16.0,320.0,x86,,173.0,0.2595,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-dedicated-16-8,G7 Dedicated 16x8,8,16.0,320.0,x86,,173.0,0.2595,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-standard-8,Linode 32GB,8,32.0,640.0,x86,,192.0,0.288,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-highmem-4,Linode 90GB,4,90.0,90.0,x86,,240.0,0.36,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g1-accelerated-netint-vpu-t1u1-s,NETINT Quadra T1U x1 Small,8,16.0,200.0,x86,,280.0,0.42,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-dedicated-16,Dedicated 32GB,16,32.0,640.0,x86,,288.0,0.432,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-premium-16,Premium 32GB,16,32.0,640.0,x86,,346.0,0.519,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-dedicated-32-16,G7 Dedicated 32x16,16,32.0,640.0,x86,,346.0,0.519,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g1-accelerated-netint-vpu-t1u1-m,NETINT Quadra T1U x1 Medium,12,24.0,300.0,x86,,352.0,0.53,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-standard-16,Linode 64GB,16,64.0,1280.0,x86,,384.0,0.576,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-highmem-8,Linode 150GB,8,150.0,200.0,x86,,480.0,0.72,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g1-accelerated-netint-vpu-t1u2-s,NETINT Quadra T1U x2 Small,12,24.0,300.0,x86,,488.0,0.73,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-standard-20,Linode 96GB,20,96.0,1920.0,x86,,576.0,0.864,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-dedicated-32,Dedicated 64GB,32,64.0,1280.0,x86,,576.0,0.864,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-premium-32,Premium 64GB,32,64.0,1280.0,x86,,691.0,1.0365,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-dedicated-64-32,G7 Dedicated 64x32,32,64.0,1280.0,x86,,691.0,1.0365,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-standard-24,Linode 128GB,24,128.0,2560.0,x86,,768.0,1.152,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-dedicated-48,Dedicated 96GB,48,96.0,1920.0,x86,,864.0,1.296,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-highmem-16,Linode 300GB,16,300.0,340.0,x86,,960.0,1.44,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-premium-48,Premium 96GB,48,96.0,1920.0,x86,,1037.0,1.5555,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-dedicated-96-48,G7 Dedicated 96x48,48,96.0,1920.0,x86,,1037.0,1.5555,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-standard-32,Linode 192GB,32,192.0,3840.0,x86,,1152.0,1.728,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-dedicated-50,Dedicated 128GB,50,128.0,2500.0,x86,,1152.0,1.728,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-premium-50,Premium 128GB,50,128.0,2500.0,x86,,1382.0,2.073,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-dedicated-128-50,G7 Dedicated 128x50,50,128.0,2500.0,x86,,1382.0,2.073,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g1-accelerated-netint-vpu-t1u8-s,NETINT Quadra T1U x8 Small,48,96.0,300.0,x86,,1952.0,2.928,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g1-accelerated-netint-vpu-t1u8-m,NETINT Quadra T1U x8 Medium,64,128.0,300.0,x86,,2240.0,3.36,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g6-dedicated-56,Dedicated 256GB,56,256.0,5000.0,x86,,2304.0,3.456,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-premium-56,Premium 256GB,56,256.0,5000.0,x86,,2765.0,4.1475,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g7-dedicated-256-56,G7 Dedicated 256x56,56,256.0,5000.0,x86,,2765.0,4.1475,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-linode,g1-accelerated-netint-vpu-t1u8-l,NETINT Quadra T1U x8 Large,96,192.0,300.0,x86,,2816.0,4.224,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-03
-vultr,vc2-1c-0.5gb-v6,vc2,1,0.5,10,x86,,2.5,0.003,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-1c-0.5gb,vc2,1,0.5,10,x86,,3.5,0.005,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-1c-1gb,vc2,1,1.0,25,x86,,5,0.007,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-1c-1gb,vhf,1,1.0,32,x86,,6,0.008,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-1c-1gb-amd,vhp,1,1.0,25,x86,,6,0.008,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-1c-1gb-intel,vhp,1,1.0,25,x86,,6,0.008,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-1c-2gb,vc2,1,2.0,55,x86,,10,0.014,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-1c-2gb,vhf,1,2.0,64,x86,,12,0.016,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-1c-2gb-amd,vhp,1,2.0,50,x86,,12,0.016,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-1c-2gb-intel,vhp,1,2.0,50,x86,,12,0.016,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-2c-2gb,vc2,2,2.0,65,x86,,15,0.021,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-2c-2gb,vhf,2,2.0,80,x86,,18,0.025,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-2c-2gb-amd,vhp,2,2.0,60,x86,,18,0.025,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-2c-2gb-intel,vhp,2,2.0,60,x86,,18,0.025,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-2c-4gb,vc2,2,4.0,80,x86,,20,0.027,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-2c-4gb,vhf,2,4.0,128,x86,,24,0.033,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-2c-4gb-amd,vhp,2,4.0,100,x86,,24,0.033,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-2c-4gb-intel,vhp,2,4.0,100,x86,,24,0.033,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-1c-2gb-25s-amd,voc,1,2.0,25,x86,,28,0.038,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-1c-4gb-30s-amd,voc,1,4.0,30,x86,,30,0.041,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-4c-8gb,vc2,4,8.0,160,x86,,40,0.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-1c-8gb-50s-amd,voc,1,8.0,50,x86,,40,0.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-2c-4gb-50s-amd,voc,2,4.0,50,x86,,40,0.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a16-2c-8g-2vram,vcg,2,8.0,50,x86,NVIDIA_A16,43,0.059,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-2c-8g,vx1,2,8.0,1,x86,,43.8,0.06,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-2c-4gb-75s-amd,voc,2,4.0,75,x86,,45,0.062,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-3c-8gb,vhf,3,8.0,256,x86,,48,0.066,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-4c-8gb-amd,vhp,4,8.0,180,x86,,48,0.066,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-4c-8gb-intel,vhp,4,8.0,180,x86,,48,0.066,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a40-1c-5g-2vram,vcg,1,5.0,90,x86,NVIDIA_A40,55,0.075,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-2c-8g-120s,vx1,2,8.0,120,x86,,55.48,0.076,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-2c-16g,vx1,2,16.0,1,x86,,58.4,0.08,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-2c-8gb-50s-amd,voc,2,8.0,50,x86,,60,0.082,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-2c-16g-120s,vx1,2,16.0,120,x86,,70.08,0.096,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-4c-12gb-amd,vhp,4,12.0,260,x86,,72,0.099,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-4c-12gb-intel,vhp,4,12.0,260,x86,,72,0.099,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-1c-8gb-150s-amd,voc,1,8.0,150,x86,,75,0.103,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-6c-16gb,vc2,6,16.0,320,x86,,80,0.11,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-4c-8gb-75s-amd,voc,4,8.0,75,x86,,80,0.11,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-2c-16gb-100s-amd,voc,2,16.0,100,x86,,80,0.11,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a16-2c-16g-4vram,vcg,2,16.0,80,x86,NVIDIA_A16,86,0.118,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-4c-16g,vx1,4,16.0,1,x86,,87.6,0.12,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-4c-8gb-150s-amd,voc,4,8.0,150,x86,,90,0.123,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-4c-16gb,vhf,4,16.0,384,x86,,96,0.132,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-8c-16gb-amd,vhp,8,16.0,350,x86,,96,0.132,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-8c-16gb-intel,vhp,8,16.0,350,x86,,96,0.132,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-2c-16gb-200s-amd,voc,2,16.0,200,x86,,100,0.137,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a40-2c-10g-4vram,vcg,2,10.0,180,x86,NVIDIA_A40,105,0.144,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-4c-16g-240s,vx1,4,16.0,240,x86,,111.69,0.153,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-4c-32gb,vx1,4,32.0,1,x86,,116.8,0.16,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-4c-16gb-80s-amd,voc,4,16.0,80,x86,,120,0.164,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-2c-16gb-320s-amd,voc,2,16.0,320,x86,,125,0.171,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-2c-16gb-400s-amd,voc,2,16.0,400,x86,,125,0.171,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-4c-32g-240s,vx1,4,32.0,240,x86,,140.89,0.193,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-6c-24gb,vhf,6,24.0,448,x86,,144,0.197,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-12c-24gb-amd,vhp,12,24.0,500,x86,,144,0.197,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhp-12c-24gb-intel,vhp,12,24.0,500,x86,,144,0.197,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-2c-16gb-480s-amd,voc,2,16.0,480,x86,,155,0.212,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-8c-32gb,vc2,8,32.0,640,x86,,160,0.219,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-8c-16gb-150s-amd,voc,8,16.0,150,x86,,160,0.219,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-4c-32gb-200s-amd,voc,4,32.0,200,x86,,160,0.219,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a16-3c-32g-8vram,vcg,3,32.0,170,x86,NVIDIA_A16,172,0.236,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-8c-32g,vx1,8,32.0,1,x86,,175.2,0.24,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-8c-16gb-300s-amd,voc,8,16.0,300,x86,,180,0.247,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-8c-32gb,vhf,8,32.0,512,x86,,192,0.263,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-4c-32gb-400s-amd,voc,4,32.0,400,x86,,195,0.267,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a40-4c-20g-8vram,vcg,4,20.0,360,x86,NVIDIA_A40,210,0.288,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-8c-32g-480s,vx1,8,32.0,480,x86,,223.38,0.306,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-8c-64gb,vx1,8,64.0,1,x86,,233.6,0.32,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-8c-32gb-160s-amd,voc,8,32.0,160,x86,,240,0.329,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-4c-32gb-640s-amd,voc,4,32.0,640,x86,,250,0.342,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-4c-32gb-800s-amd,voc,4,32.0,800,x86,,250,0.342,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-12c-48gb,vhf,12,48.0,768,x86,,256,0.351,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-8c-64g-480s,vx1,8,64.0,480,x86,,281.78,0.386,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-4c-32gb-960s-amd,voc,4,32.0,960,x86,,310,0.425,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a40-6c-30g-12vram,vcg,6,30.0,550,x86,NVIDIA_A40,315,0.432,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-16c-64gb,vc2,16,64.0,1280,x86,,320,0.438,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vhf-16c-58gb,vhf,16,58.0,1024,x86,,320,0.438,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-16c-32gb-300s-amd,voc,16,32.0,300,x86,,320,0.438,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-8c-64gb-400s-amd,voc,8,64.0,400,x86,,320,0.438,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a16-6c-64g-16vram,vdm,6,64.0,350,x86,,344,0.471,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-16c-64g,vx1,16,64.0,1,x86,,350.4,0.48,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-16c-32gb-500s-amd,voc,16,32.0,500,x86,,360,0.493,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-8c-64gb-800s-amd,voc,8,64.0,800,x86,,390,0.534,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a40-8c-40g-16vram,vcg,8,40.0,740,x86,NVIDIA_A40,420,0.575,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-16c-64g-960s,vx1,16,64.0,960,x86,,446.76,0.612,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-16c-128gb,vx1,16,128.0,1,x86,,467.2,0.64,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-16c-64gb-320s-amd,voc,16,64.0,320,x86,,480,0.658,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-8c-64gb-1280s-amd,voc,8,64.0,1280,x86,,500,0.685,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-8c-64gb-1600s-amd,voc,8,64.0,1600,x86,,500,0.685,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-16c-128g-960s,vx1,16,128.0,960,x86,,563.56,0.772,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-8c-64gb-1920s-amd,voc,8,64.0,1920,x86,,620,0.849,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a40-12c-60g-24vram,vcg,12,60.0,1110,x86,NVIDIA_A40,625,0.856,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vc2-24c-96gb,vc2,24,96.0,1600,x86,,640,0.877,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-32c-64gb-500s-amd,voc,32,64.0,500,x86,,640,0.877,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-16c-128gb-800s-amd,voc,16,128.0,800,x86,,640,0.877,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a16-12c-128g-32vram,vcg,12,128.0,700,x86,NVIDIA_A16,688,0.942,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-32c-128g,vx1,32,128.0,1,x86,,700.8,0.96,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-24c-96gb-480s-amd,voc,24,96.0,480,x86,,720,0.986,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-c-32c-64gb-1000s-amd,voc,32,64.0,1000,x86,,720,0.986,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-16c-128gb-1600s-amd,voc,16,128.0,1600,x86,,785,1.075,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-32c-128g-1920s,vx1,32,128.0,1920,x86,,892.79,1.223,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-32c-256gb,vx1,32,256.0,1,x86,,934.4,1.28,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-32c-128gb-640s-amd,voc,32,128.0,640,x86,,960,1.315,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-24c-192gb-1200s-amd,voc,24,192.0,1200,x86,,960,1.315,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-16c-128gb-2560s-amd,voc,16,128.0,2560,x86,,1000,1.37,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-16c-128gb-3200s-amd,voc,16,128.0,3200,x86,,1000,1.37,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-48c-192g,vx1,48,192.0,1,x86,,1051.2,1.44,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-l40s-16c-180g-48vram,vcg,16,180.0,1200,x86,NVIDIA_L40S,1122.91,1.671,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-32c-256g-1920s,vx1,32,256.0,1920,x86,,1126.39,1.543,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-24c-192gb-2400s-amd,voc,24,192.0,2400,x86,,1175,1.61,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-40c-160gb-768s-amd,voc,40,160.0,768,x86,,1200,1.644,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-16c-128gb-3840s-amd,voc,16,128.0,3840,x86,,1240,1.699,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a40-24c-120g-48vram,vdm,24,120.0,1400,x86,,1250,1.712,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-32c-256gb-1600s-amd,voc,32,256.0,1600,x86,,1280,1.753,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-48c-192g-2880s,vx1,48,192.0,2880,x86,,1339.55,1.835,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a16-24c-256g-64vram,vcg,24,256.0,1200,x86,NVIDIA_A16,1375,1.884,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-48c-384gb,vx1,48,384.0,1,x86,,1401.6,1.92,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-64c-256g,vx1,64,256.0,1,x86,,1401.6,1.92,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-24c-192gb-3840s-amd,voc,24,192.0,3840,x86,,1500,2.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-24c-192gb-4800s-amd,voc,24,192.0,4800,x86,,1500,2.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-m-32c-256gb-3200s-amd,voc,32,256.0,3200,x86,,1565,2.144,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-48c-384g-2880s,vx1,48,384.0,2880,x86,,1689.95,2.315,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a100-12c-120g-80vram,vdm,12,120.0,1400,x86,,1750,2.397,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-64c-256g-3840s,vx1,64,256.0,3840,x86,,1785.58,2.446,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-24c-192gb-5760s-amd,voc,24,192.0,5760,x86,,1850,2.534,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-64c-512gb,vx1,64,512.0,1,x86,,1868.8,2.56,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-64c-192gb-960s-amd,voc,64,192.0,960,x86,,1920,2.63,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-s-32c-256gb-5760s-amd,voc,32,256.0,5760,x86,,2000,2.74,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-96c-384g,vx1,96,384.0,1,x86,,2102.4,2.88,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-l40s-32c-375g-96vram,vcg,32,375.0,2200,x86,NVIDIA_L40S,2245.82,3.342,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-64c-512g-3840s,vx1,64,512.0,3840,x86,,2252.78,3.086,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-96c-384g-5760s,vx1,96,384.0,5760,x86,,2678.37,3.669,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a16-48c-496g-128vram,vcg,48,496.0,1500,x86,NVIDIA_A16,2750,3.767,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-96c-768gb,vx1,96,768.0,1,x86,,2803.2,3.84,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-96c-768g-5760s,vx1,96,768.0,5760,x86,,3379.17,4.629,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,voc-g-96c-256gb-1280s-amd,voc,96,256.0,1280,x86,,3840,5.26,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-192c-768g,vx1,192,768.0,1,x86,,4204.8,5.76,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-l40s-64c-750g-192vram,vcg,64,750.0,2600,x86,NVIDIA_L40S,4491.65,6.684,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a40-96c-480g-192vram,vdm,96,480.0,1400,x86,,5000,6.849,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-g-192c-768g-11520s,vx1,192,768.0,11520,x86,,5356.74,7.338,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a16-96c-960g-256vram,vdm,96,960.0,1700,x86,,5500,7.534,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a16-96c-878g-256vram,vdm,96,877.0,3072,x86,,5500,7.534,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-192c-1536gb,vx1,192,1435.0,1,x86,,5606.4,7.68,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vx1-m-192c-1536g-11520s,vx1,192,1430.0,10720,x86,,6758.34,9.258,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-a100-96c-960g-640vram,vdm,96,960.0,2200,x86,,14000,19.178,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-mi355x-252c-2872g-2304vram,vdm,252,2872.0,14336,x86,,15125.6,20.72,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-h100-216c-1914gb-640vram,vdm,216,1883.91,13312,x86,,16074.24,23.92,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-mi325x-252c-2872g-1536vram,vdm,252,2872.0,14336,x86,,24810.24,36.92,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
-vultr,vcg-b200-248c-2826g-1536vram,vdm,248,2826.0,13312,x86,,45696,68,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-03
+linode,g6-nanode-1,Nanode 1GB,1,1.0,25.0,x86,,5.0,0.0075,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-standard-1,Linode 2GB,1,2.0,50.0,x86,,12.0,0.018,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-standard-2,Linode 4GB,2,4.0,80.0,x86,,24.0,0.036,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-dedicated-2,Dedicated 4GB,2,4.0,80.0,x86,,36.0,0.054,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-premium-2,Premium 4GB,2,4.0,80.0,x86,,43.0,0.0645,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-dedicated-4-2,G7 Dedicated 4x2,2,4.0,80.0,x86,,43.0,0.0645,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-standard-4,Linode 8GB,4,8.0,160.0,x86,,48.0,0.072,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-highmem-1,Linode 24GB,2,24.0,20.0,x86,,60.0,0.09,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-dedicated-4,Dedicated 8GB,4,8.0,160.0,x86,,72.0,0.108,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-premium-4,Premium 8GB,4,8.0,160.0,x86,,86.0,0.129,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-dedicated-8-4,G7 Dedicated 8x4,4,8.0,160.0,x86,,86.0,0.129,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-standard-6,Linode 16GB,6,16.0,320.0,x86,,96.0,0.144,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-highmem-2,Linode 48GB,2,48.0,40.0,x86,,120.0,0.18,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-dedicated-8,Dedicated 16GB,8,16.0,320.0,x86,,144.0,0.216,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-premium-8,Premium 16GB,8,16.0,320.0,x86,,173.0,0.2595,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-dedicated-16-8,G7 Dedicated 16x8,8,16.0,320.0,x86,,173.0,0.2595,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-standard-8,Linode 32GB,8,32.0,640.0,x86,,192.0,0.288,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-highmem-4,Linode 90GB,4,90.0,90.0,x86,,240.0,0.36,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g1-accelerated-netint-vpu-t1u1-s,NETINT Quadra T1U x1 Small,8,16.0,200.0,x86,,280.0,0.42,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-dedicated-16,Dedicated 32GB,16,32.0,640.0,x86,,288.0,0.432,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-premium-16,Premium 32GB,16,32.0,640.0,x86,,346.0,0.519,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-dedicated-32-16,G7 Dedicated 32x16,16,32.0,640.0,x86,,346.0,0.519,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g1-accelerated-netint-vpu-t1u1-m,NETINT Quadra T1U x1 Medium,12,24.0,300.0,x86,,352.0,0.53,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-standard-16,Linode 64GB,16,64.0,1280.0,x86,,384.0,0.576,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-highmem-8,Linode 150GB,8,150.0,200.0,x86,,480.0,0.72,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g1-accelerated-netint-vpu-t1u2-s,NETINT Quadra T1U x2 Small,12,24.0,300.0,x86,,488.0,0.73,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-standard-20,Linode 96GB,20,96.0,1920.0,x86,,576.0,0.864,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-dedicated-32,Dedicated 64GB,32,64.0,1280.0,x86,,576.0,0.864,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-premium-32,Premium 64GB,32,64.0,1280.0,x86,,691.0,1.0365,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-dedicated-64-32,G7 Dedicated 64x32,32,64.0,1280.0,x86,,691.0,1.0365,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-standard-24,Linode 128GB,24,128.0,2560.0,x86,,768.0,1.152,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-dedicated-48,Dedicated 96GB,48,96.0,1920.0,x86,,864.0,1.296,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-highmem-16,Linode 300GB,16,300.0,340.0,x86,,960.0,1.44,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-premium-48,Premium 96GB,48,96.0,1920.0,x86,,1037.0,1.5555,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-dedicated-96-48,G7 Dedicated 96x48,48,96.0,1920.0,x86,,1037.0,1.5555,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-standard-32,Linode 192GB,32,192.0,3840.0,x86,,1152.0,1.728,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-dedicated-50,Dedicated 128GB,50,128.0,2500.0,x86,,1152.0,1.728,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-premium-50,Premium 128GB,50,128.0,2500.0,x86,,1382.0,2.073,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-dedicated-128-50,G7 Dedicated 128x50,50,128.0,2500.0,x86,,1382.0,2.073,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g1-accelerated-netint-vpu-t1u8-s,NETINT Quadra T1U x8 Small,48,96.0,300.0,x86,,1952.0,2.928,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g1-accelerated-netint-vpu-t1u8-m,NETINT Quadra T1U x8 Medium,64,128.0,300.0,x86,,2240.0,3.36,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g6-dedicated-56,Dedicated 256GB,56,256.0,5000.0,x86,,2304.0,3.456,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-premium-56,Premium 256GB,56,256.0,5000.0,x86,,2765.0,4.1475,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g7-dedicated-256-56,G7 Dedicated 256x56,56,256.0,5000.0,x86,,2765.0,4.1475,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+linode,g1-accelerated-netint-vpu-t1u8-l,NETINT Quadra T1U x8 Large,96,192.0,300.0,x86,,2816.0,4.224,USD,False,global (base price; some regions cost more),api,https://api.linode.com/v4/linode/types,2026-08-10
+vultr,vc2-1c-0.5gb-v6,vc2,1,0.5,10,x86,,2.5,0.003,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-1c-0.5gb,vc2,1,0.5,10,x86,,3.5,0.005,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-1c-1gb,vc2,1,1.0,25,x86,,5,0.007,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-1c-1gb,vhf,1,1.0,32,x86,,6,0.008,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-1c-1gb-amd,vhp,1,1.0,25,x86,,6,0.008,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-1c-1gb-intel,vhp,1,1.0,25,x86,,6,0.008,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-1c-2gb,vc2,1,2.0,55,x86,,10,0.014,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-1c-2gb,vhf,1,2.0,64,x86,,12,0.016,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-1c-2gb-amd,vhp,1,2.0,50,x86,,12,0.016,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-1c-2gb-intel,vhp,1,2.0,50,x86,,12,0.016,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-2c-2gb,vc2,2,2.0,65,x86,,15,0.021,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-2c-2gb,vhf,2,2.0,80,x86,,18,0.025,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-2c-2gb-amd,vhp,2,2.0,60,x86,,18,0.025,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-2c-2gb-intel,vhp,2,2.0,60,x86,,18,0.025,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-2c-4gb,vc2,2,4.0,80,x86,,20,0.027,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-2c-4gb,vhf,2,4.0,128,x86,,24,0.033,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-2c-4gb-amd,vhp,2,4.0,100,x86,,24,0.033,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-2c-4gb-intel,vhp,2,4.0,100,x86,,24,0.033,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-1c-2gb-25s-amd,voc,1,2.0,25,x86,,28,0.038,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-1c-4gb-30s-amd,voc,1,4.0,30,x86,,30,0.041,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-4c-8gb,vc2,4,8.0,160,x86,,40,0.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-1c-8gb-50s-amd,voc,1,8.0,50,x86,,40,0.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-2c-4gb-50s-amd,voc,2,4.0,50,x86,,40,0.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a16-2c-8g-2vram,vcg,2,8.0,50,x86,NVIDIA_A16,43,0.059,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-2c-8g,vx1,2,8.0,1,x86,,43.8,0.06,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-2c-4gb-75s-amd,voc,2,4.0,75,x86,,45,0.062,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-3c-8gb,vhf,3,8.0,256,x86,,48,0.066,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-4c-8gb-amd,vhp,4,8.0,180,x86,,48,0.066,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-4c-8gb-intel,vhp,4,8.0,180,x86,,48,0.066,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a40-1c-5g-2vram,vcg,1,5.0,90,x86,NVIDIA_A40,55,0.075,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-2c-8g-120s,vx1,2,8.0,120,x86,,55.48,0.076,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-2c-16g,vx1,2,16.0,1,x86,,58.4,0.08,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-2c-8gb-50s-amd,voc,2,8.0,50,x86,,60,0.082,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-2c-16g-120s,vx1,2,16.0,120,x86,,70.08,0.096,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-4c-12gb-amd,vhp,4,12.0,260,x86,,72,0.099,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-4c-12gb-intel,vhp,4,12.0,260,x86,,72,0.099,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-1c-8gb-150s-amd,voc,1,8.0,150,x86,,75,0.103,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-6c-16gb,vc2,6,16.0,320,x86,,80,0.11,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-4c-8gb-75s-amd,voc,4,8.0,75,x86,,80,0.11,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-2c-16gb-100s-amd,voc,2,16.0,100,x86,,80,0.11,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a16-2c-16g-4vram,vcg,2,16.0,80,x86,NVIDIA_A16,86,0.118,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-4c-16g,vx1,4,16.0,1,x86,,87.6,0.12,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-4c-8gb-150s-amd,voc,4,8.0,150,x86,,90,0.123,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-4c-16gb,vhf,4,16.0,384,x86,,96,0.132,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-8c-16gb-amd,vhp,8,16.0,350,x86,,96,0.132,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-8c-16gb-intel,vhp,8,16.0,350,x86,,96,0.132,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-2c-16gb-200s-amd,voc,2,16.0,200,x86,,100,0.137,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a40-2c-10g-4vram,vcg,2,10.0,180,x86,NVIDIA_A40,105,0.144,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-4c-16g-240s,vx1,4,16.0,240,x86,,111.69,0.153,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-4c-32gb,vx1,4,32.0,1,x86,,116.8,0.16,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-4c-16gb-80s-amd,voc,4,16.0,80,x86,,120,0.164,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-2c-16gb-320s-amd,voc,2,16.0,320,x86,,125,0.171,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-2c-16gb-400s-amd,voc,2,16.0,400,x86,,125,0.171,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-4c-32g-240s,vx1,4,32.0,240,x86,,140.89,0.193,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-6c-24gb,vhf,6,24.0,448,x86,,144,0.197,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-12c-24gb-amd,vhp,12,24.0,500,x86,,144,0.197,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhp-12c-24gb-intel,vhp,12,24.0,500,x86,,144,0.197,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-2c-16gb-480s-amd,voc,2,16.0,480,x86,,155,0.212,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-8c-32gb,vc2,8,32.0,640,x86,,160,0.219,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-8c-16gb-150s-amd,voc,8,16.0,150,x86,,160,0.219,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-4c-32gb-200s-amd,voc,4,32.0,200,x86,,160,0.219,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a16-3c-32g-8vram,vcg,3,32.0,170,x86,NVIDIA_A16,172,0.236,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-8c-32g,vx1,8,32.0,1,x86,,175.2,0.24,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-8c-16gb-300s-amd,voc,8,16.0,300,x86,,180,0.247,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-8c-32gb,vhf,8,32.0,512,x86,,192,0.263,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-4c-32gb-400s-amd,voc,4,32.0,400,x86,,195,0.267,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a40-4c-20g-8vram,vcg,4,20.0,360,x86,NVIDIA_A40,210,0.288,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-8c-32g-480s,vx1,8,32.0,480,x86,,223.38,0.306,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-8c-64gb,vx1,8,64.0,1,x86,,233.6,0.32,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-8c-32gb-160s-amd,voc,8,32.0,160,x86,,240,0.329,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-4c-32gb-640s-amd,voc,4,32.0,640,x86,,250,0.342,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-4c-32gb-800s-amd,voc,4,32.0,800,x86,,250,0.342,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-12c-48gb,vhf,12,48.0,768,x86,,256,0.351,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-8c-64g-480s,vx1,8,64.0,480,x86,,281.78,0.386,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-4c-32gb-960s-amd,voc,4,32.0,960,x86,,310,0.425,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a40-6c-30g-12vram,vcg,6,30.0,550,x86,NVIDIA_A40,315,0.432,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-16c-64gb,vc2,16,64.0,1280,x86,,320,0.438,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vhf-16c-58gb,vhf,16,58.0,1024,x86,,320,0.438,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-16c-32gb-300s-amd,voc,16,32.0,300,x86,,320,0.438,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-8c-64gb-400s-amd,voc,8,64.0,400,x86,,320,0.438,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a16-6c-64g-16vram,vdm,6,64.0,350,x86,,344,0.471,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-16c-64g,vx1,16,64.0,1,x86,,350.4,0.48,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-16c-32gb-500s-amd,voc,16,32.0,500,x86,,360,0.493,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-8c-64gb-800s-amd,voc,8,64.0,800,x86,,390,0.534,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a40-8c-40g-16vram,vcg,8,40.0,740,x86,NVIDIA_A40,420,0.575,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-16c-64g-960s,vx1,16,64.0,960,x86,,446.76,0.612,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-16c-128gb,vx1,16,128.0,1,x86,,467.2,0.64,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-16c-64gb-320s-amd,voc,16,64.0,320,x86,,480,0.658,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-8c-64gb-1280s-amd,voc,8,64.0,1280,x86,,500,0.685,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-8c-64gb-1600s-amd,voc,8,64.0,1600,x86,,500,0.685,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-16c-128g-960s,vx1,16,128.0,960,x86,,563.56,0.772,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-8c-64gb-1920s-amd,voc,8,64.0,1920,x86,,620,0.849,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a40-12c-60g-24vram,vcg,12,60.0,1110,x86,NVIDIA_A40,625,0.856,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vc2-24c-96gb,vc2,24,96.0,1600,x86,,640,0.877,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-32c-64gb-500s-amd,voc,32,64.0,500,x86,,640,0.877,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-16c-128gb-800s-amd,voc,16,128.0,800,x86,,640,0.877,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a16-12c-128g-32vram,vcg,12,128.0,700,x86,NVIDIA_A16,688,0.942,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-32c-128g,vx1,32,128.0,1,x86,,700.8,0.96,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-24c-96gb-480s-amd,voc,24,96.0,480,x86,,720,0.986,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-c-32c-64gb-1000s-amd,voc,32,64.0,1000,x86,,720,0.986,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-16c-128gb-1600s-amd,voc,16,128.0,1600,x86,,785,1.075,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-32c-128g-1920s,vx1,32,128.0,1920,x86,,892.79,1.223,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-32c-256gb,vx1,32,256.0,1,x86,,934.4,1.28,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-32c-128gb-640s-amd,voc,32,128.0,640,x86,,960,1.315,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-24c-192gb-1200s-amd,voc,24,192.0,1200,x86,,960,1.315,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-16c-128gb-2560s-amd,voc,16,128.0,2560,x86,,1000,1.37,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-16c-128gb-3200s-amd,voc,16,128.0,3200,x86,,1000,1.37,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-48c-192g,vx1,48,192.0,1,x86,,1051.2,1.44,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-l40s-16c-180g-48vram,vcg,16,180.0,1200,x86,NVIDIA_L40S,1122.91,1.671,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-32c-256g-1920s,vx1,32,256.0,1920,x86,,1126.39,1.543,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-24c-192gb-2400s-amd,voc,24,192.0,2400,x86,,1175,1.61,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-40c-160gb-768s-amd,voc,40,160.0,768,x86,,1200,1.644,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-16c-128gb-3840s-amd,voc,16,128.0,3840,x86,,1240,1.699,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a40-24c-120g-48vram,vdm,24,120.0,1400,x86,,1250,1.712,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-32c-256gb-1600s-amd,voc,32,256.0,1600,x86,,1280,1.753,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-48c-192g-2880s,vx1,48,192.0,2880,x86,,1339.55,1.835,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a16-24c-256g-64vram,vcg,24,256.0,1200,x86,NVIDIA_A16,1375,1.884,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-48c-384gb,vx1,48,384.0,1,x86,,1401.6,1.92,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-64c-256g,vx1,64,256.0,1,x86,,1401.6,1.92,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-24c-192gb-3840s-amd,voc,24,192.0,3840,x86,,1500,2.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-24c-192gb-4800s-amd,voc,24,192.0,4800,x86,,1500,2.055,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-m-32c-256gb-3200s-amd,voc,32,256.0,3200,x86,,1565,2.144,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-48c-384g-2880s,vx1,48,384.0,2880,x86,,1689.95,2.315,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a100-12c-120g-80vram,vdm,12,120.0,1400,x86,,1750,2.397,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-64c-256g-3840s,vx1,64,256.0,3840,x86,,1785.58,2.446,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-24c-192gb-5760s-amd,voc,24,192.0,5760,x86,,1850,2.534,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-64c-512gb,vx1,64,512.0,1,x86,,1868.8,2.56,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-64c-192gb-960s-amd,voc,64,192.0,960,x86,,1920,2.63,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-s-32c-256gb-5760s-amd,voc,32,256.0,5760,x86,,2000,2.74,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-96c-384g,vx1,96,384.0,1,x86,,2102.4,2.88,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-l40s-32c-375g-96vram,vcg,32,375.0,2200,x86,NVIDIA_L40S,2245.82,3.342,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-64c-512g-3840s,vx1,64,512.0,3840,x86,,2252.78,3.086,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-96c-384g-5760s,vx1,96,384.0,5760,x86,,2678.37,3.669,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a16-48c-496g-128vram,vcg,48,496.0,1500,x86,NVIDIA_A16,2750,3.767,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-96c-768gb,vx1,96,768.0,1,x86,,2803.2,3.84,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-96c-768g-5760s,vx1,96,768.0,5760,x86,,3379.17,4.629,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,voc-g-96c-256gb-1280s-amd,voc,96,256.0,1280,x86,,3840,5.26,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-192c-768g,vx1,192,768.0,1,x86,,4204.8,5.76,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-l40s-64c-750g-192vram,vcg,64,750.0,2600,x86,NVIDIA_L40S,4491.65,6.684,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a40-96c-480g-192vram,vdm,96,480.0,1400,x86,,5000,6.849,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-g-192c-768g-11520s,vx1,192,768.0,11520,x86,,5356.74,7.338,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a16-96c-960g-256vram,vdm,96,960.0,1700,x86,,5500,7.534,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a16-96c-878g-256vram,vdm,96,877.0,3072,x86,,5500,7.534,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-192c-1536gb,vx1,192,1435.0,1,x86,,5606.4,7.68,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vx1-m-192c-1536g-11520s,vx1,192,1430.0,10720,x86,,6758.34,9.258,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-a100-96c-960g-640vram,vdm,96,960.0,2200,x86,,14000,19.178,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-mi355x-252c-2872g-2304vram,vdm,252,2872.0,14336,x86,,15125.6,20.72,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-h100-216c-1914gb-640vram,vdm,216,1883.91,13312,x86,,16074.24,23.92,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-mi325x-252c-2872g-1536vram,vdm,252,2872.0,14336,x86,,24810.24,36.92,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
+vultr,vcg-b200-248c-2826g-1536vram,vdm,248,2826.0,13312,x86,,45696,68,USD,False,global,api,https://api.vultr.com/v2/plans,2026-08-10
