@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:04:36+00:00",
-  "record_count": 206,
+  "generated_at": "2026-10-19T09:57:55+00:00",
+  "record_count": 194,
   "providers": [
     "hetzner",
     "linode",
@@ -225,7 +225,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -243,7 +243,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -261,7 +261,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -279,7 +279,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -297,7 +297,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -315,7 +315,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -333,7 +333,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -351,7 +351,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -369,7 +369,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -387,7 +387,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -405,7 +405,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -423,7 +423,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -441,7 +441,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -459,7 +459,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -477,7 +477,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -495,7 +495,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -513,7 +513,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -531,7 +531,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -549,7 +549,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -567,7 +567,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -585,7 +585,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -603,7 +603,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -621,7 +621,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -639,7 +639,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -657,7 +657,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -675,7 +675,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -693,7 +693,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -711,7 +711,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -729,7 +729,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -747,7 +747,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -765,7 +765,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -783,7 +783,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -801,7 +801,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -819,7 +819,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -837,7 +837,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -855,7 +855,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -873,7 +873,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -891,7 +891,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -909,7 +909,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -927,7 +927,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -945,7 +945,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -963,7 +963,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -981,7 +981,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -999,7 +999,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "linode",
@@ -1017,7 +1017,7 @@
       "region": "global (base price; some regions cost more)",
       "collection": "api",
       "source_url": "https://api.linode.com/v4/linode/types",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1035,7 +1035,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1053,7 +1053,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1071,7 +1071,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1089,7 +1089,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1107,7 +1107,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1125,7 +1125,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1143,7 +1143,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1161,7 +1161,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1179,7 +1179,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1197,7 +1197,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1215,7 +1215,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1233,7 +1233,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1251,7 +1251,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1269,7 +1269,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1287,7 +1287,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1305,7 +1305,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1323,7 +1323,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1341,7 +1341,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1359,7 +1359,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1377,7 +1377,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1395,7 +1395,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1413,7 +1413,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1431,25 +1431,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a16-2c-8g-2vram",
-      "label": "vcg",
-      "vcpu": 2,
-      "ram_gb": 8.0,
-      "disk_gb": 50,
-      "arch": "x86",
-      "gpu": "NVIDIA_A16",
-      "price_monthly": 43,
-      "price_hourly": 0.059,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1467,7 +1449,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1485,7 +1467,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1503,7 +1485,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1521,7 +1503,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1539,25 +1521,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a40-1c-5g-2vram",
-      "label": "vcg",
-      "vcpu": 1,
-      "ram_gb": 5.0,
-      "disk_gb": 90,
-      "arch": "x86",
-      "gpu": "NVIDIA_A40",
-      "price_monthly": 55,
-      "price_hourly": 0.075,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1575,7 +1539,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1593,7 +1557,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1611,7 +1575,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1629,7 +1593,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1647,7 +1611,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1665,7 +1629,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1683,7 +1647,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1701,7 +1665,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1719,7 +1683,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1737,25 +1701,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a16-2c-16g-4vram",
-      "label": "vcg",
-      "vcpu": 2,
-      "ram_gb": 16.0,
-      "disk_gb": 80,
-      "arch": "x86",
-      "gpu": "NVIDIA_A16",
-      "price_monthly": 86,
-      "price_hourly": 0.118,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1773,7 +1719,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1791,7 +1737,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1809,7 +1755,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1827,7 +1773,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1845,7 +1791,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1863,25 +1809,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a40-2c-10g-4vram",
-      "label": "vcg",
-      "vcpu": 2,
-      "ram_gb": 10.0,
-      "disk_gb": 180,
-      "arch": "x86",
-      "gpu": "NVIDIA_A40",
-      "price_monthly": 105,
-      "price_hourly": 0.144,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1899,7 +1827,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1917,7 +1845,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1935,7 +1863,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1953,7 +1881,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1971,7 +1899,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -1989,7 +1917,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2007,7 +1935,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2025,7 +1953,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2043,7 +1971,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2061,7 +1989,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2079,7 +2007,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2097,7 +2025,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2115,25 +2043,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a16-3c-32g-8vram",
-      "label": "vcg",
-      "vcpu": 3,
-      "ram_gb": 32.0,
-      "disk_gb": 170,
-      "arch": "x86",
-      "gpu": "NVIDIA_A16",
-      "price_monthly": 172,
-      "price_hourly": 0.236,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2151,7 +2061,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2169,7 +2079,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2187,7 +2097,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2205,25 +2115,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a40-4c-20g-8vram",
-      "label": "vcg",
-      "vcpu": 4,
-      "ram_gb": 20.0,
-      "disk_gb": 360,
-      "arch": "x86",
-      "gpu": "NVIDIA_A40",
-      "price_monthly": 210,
-      "price_hourly": 0.288,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2241,7 +2133,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2259,7 +2151,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2277,7 +2169,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2295,7 +2187,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2313,7 +2205,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2331,7 +2223,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2349,7 +2241,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2367,25 +2259,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a40-6c-30g-12vram",
-      "label": "vcg",
-      "vcpu": 6,
-      "ram_gb": 30.0,
-      "disk_gb": 550,
-      "arch": "x86",
-      "gpu": "NVIDIA_A40",
-      "price_monthly": 315,
-      "price_hourly": 0.432,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2403,7 +2277,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2421,7 +2295,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2439,7 +2313,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2457,14 +2331,14 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
-      "plan": "vcg-a16-6c-64g-16vram",
+      "plan": "vcg-a16-6c-60g-16vram",
       "label": "vdm",
       "vcpu": 6,
-      "ram_gb": 64.0,
+      "ram_gb": 60.0,
       "disk_gb": 350,
       "arch": "x86",
       "gpu": null,
@@ -2475,7 +2349,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2493,7 +2367,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2511,7 +2385,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2529,25 +2403,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a40-8c-40g-16vram",
-      "label": "vcg",
-      "vcpu": 8,
-      "ram_gb": 40.0,
-      "disk_gb": 740,
-      "arch": "x86",
-      "gpu": "NVIDIA_A40",
-      "price_monthly": 420,
-      "price_hourly": 0.575,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2565,7 +2421,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2583,7 +2439,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2601,7 +2457,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2619,7 +2475,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2637,7 +2493,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2655,7 +2511,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2673,25 +2529,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a40-12c-60g-24vram",
-      "label": "vcg",
-      "vcpu": 12,
-      "ram_gb": 60.0,
-      "disk_gb": 1110,
-      "arch": "x86",
-      "gpu": "NVIDIA_A40",
-      "price_monthly": 625,
-      "price_hourly": 0.856,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2709,7 +2547,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2727,7 +2565,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2745,17 +2583,17 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
-      "plan": "vcg-a16-12c-128g-32vram",
-      "label": "vcg",
+      "plan": "vcg-a16-12c-120g-32vram",
+      "label": "vdm",
       "vcpu": 12,
-      "ram_gb": 128.0,
+      "ram_gb": 120.0,
       "disk_gb": 700,
       "arch": "x86",
-      "gpu": "NVIDIA_A16",
+      "gpu": null,
       "price_monthly": 688,
       "price_hourly": 0.942,
       "currency": "USD",
@@ -2763,7 +2601,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2781,7 +2619,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2799,7 +2637,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2817,7 +2655,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2835,7 +2673,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2853,7 +2691,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2871,7 +2709,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2889,7 +2727,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2907,7 +2745,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2925,7 +2763,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2943,7 +2781,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2961,7 +2799,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2979,7 +2817,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -2997,7 +2835,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3015,7 +2853,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3033,7 +2871,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3051,7 +2889,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3069,7 +2907,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3087,7 +2925,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3105,25 +2943,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a16-24c-256g-64vram",
-      "label": "vcg",
-      "vcpu": 24,
-      "ram_gb": 256.0,
-      "disk_gb": 1200,
-      "arch": "x86",
-      "gpu": "NVIDIA_A16",
-      "price_monthly": 1375,
-      "price_hourly": 1.884,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3141,7 +2961,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3159,7 +2979,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3177,7 +2997,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3195,7 +3015,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3213,7 +3033,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3231,7 +3051,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3249,7 +3069,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3267,7 +3087,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3285,7 +3105,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3303,7 +3123,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3321,7 +3141,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3339,7 +3159,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3357,7 +3177,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3375,7 +3195,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3393,7 +3213,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3411,25 +3231,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a16-48c-496g-128vram",
-      "label": "vcg",
-      "vcpu": 48,
-      "ram_gb": 496.0,
-      "disk_gb": 1500,
-      "arch": "x86",
-      "gpu": "NVIDIA_A16",
-      "price_monthly": 2750,
-      "price_hourly": 3.767,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3447,7 +3249,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3465,7 +3267,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3483,7 +3285,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3501,7 +3303,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3519,7 +3321,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3537,7 +3339,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3555,7 +3357,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3573,25 +3375,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
-    },
-    {
-      "provider": "vultr",
-      "plan": "vcg-a16-96c-878g-256vram",
-      "label": "vdm",
-      "vcpu": 96,
-      "ram_gb": 877.0,
-      "disk_gb": 3072,
-      "arch": "x86",
-      "gpu": null,
-      "price_monthly": 5500,
-      "price_hourly": 7.534,
-      "currency": "USD",
-      "vat_included": false,
-      "region": "global",
-      "collection": "api",
-      "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3609,7 +3393,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3627,7 +3411,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3645,7 +3429,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3663,7 +3447,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3681,7 +3465,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3699,7 +3483,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     },
     {
       "provider": "vultr",
@@ -3717,7 +3501,7 @@
       "region": "global",
       "collection": "api",
       "source_url": "https://api.vultr.com/v2/plans",
-      "verified_date": "2026-10-12"
+      "verified_date": "2026-10-19"
     }
   ]
 }
